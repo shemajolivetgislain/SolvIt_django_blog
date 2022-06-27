@@ -1,0 +1,1 @@
+# SolvIt_django_blog
