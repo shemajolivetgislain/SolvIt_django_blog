@@ -1,3 +1,4 @@
 # SolvIt_django_blog
-#Section
--Comment section
+# Section
+- Comment section
+- Like Section
