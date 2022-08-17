@@ -1,4 +1,4 @@
 # SolvIt_django_blog
-# Sections
+# Sections 
 - Comment section
 - Like and unlike Section
